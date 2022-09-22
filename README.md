@@ -1,3 +1,3 @@
 # Hackathon-SIUSA
 Dhruvataara is a social networking platform for career counselling.
-Please, Look at the video attached to the repo.
+Please Unzip the Dhruvataara.zip file to watch the project demo video.
